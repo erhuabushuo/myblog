@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'erhuabushuo<at>gmail.com'
+AUTHOR = 'erhuabushuo(@)gmail.com'
 SITENAME = '疯人院主任'
 SITEURL = ''
 

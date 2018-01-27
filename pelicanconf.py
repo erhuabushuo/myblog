@@ -25,7 +25,7 @@ LINKS = (('伴生活', 'http://banshenghuo.com/'),
          ('多度科技', 'http://doordu.com/'),)
 
 # Social widget
-SOCIAL = (('E-mail', 'mailto:erhuabushuo(at)gmail.com'),
+SOCIAL = (('mail', 'mailto:erhuabushuo(at)gmail.com'),
           ('github', 'http://github.com/erhuabushuo'),)
 
 DEFAULT_PAGINATION = 10
@@ -33,4 +33,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = '/home/hewx/workspace/myblog/pelican-themes/gum'
+THEME = './pelican-themes/graymill'
